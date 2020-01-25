@@ -2,7 +2,7 @@
 
 The Gladly Android SDK makes it quick and easy to build a messaging experience in your Android app. We provide powerful and customizable UI screens and elements that can be used out-of-the-box to connect with your users.
 
-<img src="ChatExample.png" alt="drawing" style="height:600px;"/>
+![screenshot of chat conversation](ChatExample.png)
 
 ## Documentation
 API documentation can be found at [https://developer.gladly.com/android-sdk/](https://developer.gladly.com/android-sdk/)
