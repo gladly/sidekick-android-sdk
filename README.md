@@ -10,7 +10,7 @@ API documentation can be found at [https://developer.gladly.com/android-sdk/](ht
 ## Example application
 To get an idea of how to work with the SDK an example application can be found [here](https://github.com/gladly/sidekick-ios-sdk/tree/master/Example).
 1. Clone this repository.
-1. Open the Example project in Android studio
+1. Open the Example project in Android Studio
 1. Download the latest SDK release and place it in `app/libs` directory.
 1. Open the `GladlyChatUtils` file and replace `APP_ID` value with a value given to you by Gladly.
 
