@@ -1,6 +1,6 @@
 {
   "project_info": {
-    "project_number": "152872377574",
+    "project_number": "xxx",
     "firebase_url": "https://android-chat-sdk-sample-app.firebaseio.com",
     "project_id": "android-chat-sdk-sample-app",
     "storage_bucket": "android-chat-sdk-sample-app.appspot.com"
@@ -8,27 +8,27 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:152872377574:android:eec6ba0b955c2fdb",
+        "mobilesdk_app_id": "1:xxx:android:zzz",
         "android_client_info": {
-          "package_name": "com.gladly.sampleapp"
+          "package_name": "com.gladly.samplechatapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "152872377574-u6j8v6of451k116rqb3onb3i20da5cs9.apps.googleusercontent.com",
+          "client_id": "xxx-yyy.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC0LPSqgdtB_i9sEVXMIa4DbfnsMW54a8o"
+          "current_key": "xxx"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "152872377574-u6j8v6of451k116rqb3onb3i20da5cs9.apps.googleusercontent.com",
+              "client_id": "xxx-yyy.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
@@ -37,27 +37,27 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:152872377574:android:91d9df13f3d4a2a8cc2f27",
+        "mobilesdk_app_id": "1:xxx:android:zzz",
         "android_client_info": {
           "package_name": "com.gladly.samplechatapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "152872377574-u6j8v6of451k116rqb3onb3i20da5cs9.apps.googleusercontent.com",
+          "client_id": "xxx-yyy.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC0LPSqgdtB_i9sEVXMIa4DbfnsMW54a8o"
+          "current_key": "xxx"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "152872377574-u6j8v6of451k116rqb3onb3i20da5cs9.apps.googleusercontent.com",
+              "client_id": "xxx-yyy.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
