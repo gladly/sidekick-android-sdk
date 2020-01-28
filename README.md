@@ -14,9 +14,6 @@ To get an idea of how to work with the SDK an example application can be found [
 1. Download the latest SDK release and place it in `app/libs` directory.
 1. Open the `GladlyChatUtils.kt` file and replace the `APP_ID` value with a value given to you by Gladly.
 
-## Dependencies
-For the SDK to function as expected there are a few dependencies that needs to be pulled in. You can find them defined in the example applications [build.gradle](https://github.com/gladly/sidekick-android-sdk/blob/master/Example/app/build.gradle) file.
-
 ## Releases
 Releases of the SDK can be found under the [releases](https://github.com/gladly/sidekick-android-sdk/releases) tab.
 
