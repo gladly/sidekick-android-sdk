@@ -8,7 +8,7 @@ The Gladly Android SDK makes it quick and easy to build a messaging experience i
 API documentation can be found at [https://developer.gladly.com/android-sdk/](https://developer.gladly.com/android-sdk/)
 
 ## Example application
-To get an idea of how to work with the SDK an example application can be found [here](https://github.com/gladly/sidekick-ios-sdk/tree/master/Example).
+To get an idea of how to work with the SDK an example application can be found [here](https://github.com/gladly/sidekick-android-sdk/tree/master/Example).
 1. Clone this repository.
 1. Open the Example project in Android Studio
 1. Download the latest SDK release and place it in `app/libs` directory.
