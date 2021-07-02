@@ -24,9 +24,11 @@ class MainActivity : AppCompatActivity() {
         openChat.setOnClickListener {
             Log.d(TAG, "Showing Chat...")
 
-            GladlyChatUtils.loginAs(this,
-                "john.connor@future.com",
-                "John Connor")
+            if (!GladlyChatUtils.isUserSet(this)) {
+                GladlyChatUtils.loginAs(this,
+                    "john.connor@future.com",
+                    "John Connor")
+            }
 
             GladlyChatUtils.showChat(this)
         }
