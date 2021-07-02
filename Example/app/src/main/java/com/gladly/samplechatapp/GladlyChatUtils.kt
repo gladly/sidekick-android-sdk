@@ -121,6 +121,18 @@ object GladlyChatUtils {
         }
     }
 
+    fun isUserSet(context: Context): Boolean {
+        context.getSharedPreferences(SHARED_PREF_NAME, Context.MODE_PRIVATE).apply {
+            val currEmail = getString(SHARED_PREF_NAME_CURRENT_EMAIL_LOGIN, "")
+            val currName = getString(SHARED_PREF_NAME_CURRENT_NAME_LOGIN, "")
+
+            if (currEmail == "" || currName == "") {
+                return false
+            }
+            return true
+        }
+    }
+
     private const val SHARED_PREF_NAME = "gladly.chat.utils.shared.prefs"
     private const val SHARED_PREF_NAME_CURRENT_EMAIL_LOGIN = "gladly.chat.utils.shared.prefs.email"
     private const val SHARED_PREF_NAME_CURRENT_NAME_LOGIN = "gladly.chat.utils.shared.prefs.name"
