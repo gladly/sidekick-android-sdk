@@ -6,10 +6,8 @@ import android.util.Log
 
 import com.gladly.androidchatsdk.Gladly
 import com.gladly.androidchatsdk.models.*
-import kotlinx.serialization.UnstableDefault
 import java.lang.Exception
 
-@UnstableDefault
 object GladlyChatUtils {
     /**
      * Application ID given to identify your account in Gladly
