@@ -12,12 +12,12 @@ object GladlyChatUtils {
     /**
      * Application ID given to identify your account in Gladly
      */
-    const val APP_ID = "some-app-id"
+    private const val APP_ID = "some-app-id"
 
     /**
      * Specify what environment to connect to, either "STAGING" or "PROD"
      */
-    const val ENV = "STAGING"
+    private const val ENV = "STAGING"
 
     fun initialize(context: Context) {
         init(context)
